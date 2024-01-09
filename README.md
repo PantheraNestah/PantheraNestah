@@ -1,4 +1,11 @@
+<p align="center">
+  <img src="https://api.githubtrends.io/user/svg/PantheraNestah/langs?time_range=one_year&loc_metric=changed&theme=bright_lights" alt="My LOC stats by Language" width="400" style="margin-right: 20px;" />
+  <img src="https://api.githubtrends.io/user/svg/PantheraNestah/repos?time_range=one_year&loc_metric=changed&theme=synthwaves" alt="My LOC stats by Repositories" width="400" />
+</p>
+
+<!--
 ![My LOC stats by Language](https://api.githubtrends.io/user/svg/PantheraNestah/langs?time_range=one_year&loc_metric=changed&theme=bright_lights) ![My LOC stats by Repositories](https://api.githubtrends.io/user/svg/PantheraNestah/repos?time_range=one_year&loc_metric=changed&theme=synthwaves)
+-->
 <!--
 **PantheraNestah/PantheraNestah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
