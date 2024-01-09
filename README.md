@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://api.githubtrends.io/user/svg/PantheraNestah/langs?time_range=one_year&loc_metric=changed&theme=bright_lights" alt="My LOC stats by Language" width="400" style="margin-right: 40px;" />
-  <img src="https://api.githubtrends.io/user/svg/PantheraNestah/repos?time_range=one_year&loc_metric=changed&theme=synthwaves" alt="My LOC stats by Repositories" width="400"style="margin-left: 40px;" />
+  <img src="https://api.githubtrends.io/user/svg/PantheraNestah/langs?time_range=one_year&loc_metric=changed&theme=bright_lights" alt="My LOC stats by Language" width="350" style="margin-right: 40px;" />
+  <img src="https://api.githubtrends.io/user/svg/PantheraNestah/repos?time_range=one_year&loc_metric=changed&theme=synthwaves" alt="My LOC stats by Repositories" width="350"style="margin-left: 40px;" />
 </p>
 
 <!--
