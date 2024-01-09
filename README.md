@@ -1,4 +1,4 @@
-### Hi there 👋
+[![GitHub Trends SVG](https://api.githubtrends.io/PantheraNestah/svg/avgupta456/langs)](https://githubtrends.io)
 
 <!--
 **PantheraNestah/PantheraNestah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
