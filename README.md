@@ -1,4 +1,4 @@
-[![My LOC stats](https://api.githubtrends.io/user/svg/PantheraNestah/langs?time_range=one_year&loc_metric=changed&theme=bright_lights)]
+![My LOC stats](https://api.githubtrends.io/user/svg/PantheraNestah/langs?time_range=one_year&loc_metric=changed&theme=bright_lights)
 <!--
 **PantheraNestah/PantheraNestah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
